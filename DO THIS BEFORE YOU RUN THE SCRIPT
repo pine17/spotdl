@@ -1,0 +1,7 @@
+//these are things you need to run in the command line or powershell before you can actually use the script
+
+pip install spotdl
+
+//wait for install to finish then run
+
+spotdl --download-ffmpeg
